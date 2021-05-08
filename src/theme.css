@@ -1,0 +1,24 @@
+.light {
+  --theme-color: #a80000;
+  --theme-page-background: #e5e5ea;
+  --theme-page-text: #111;
+  --theme-body-backgound: #fff;
+  --button-bg: yellow;
+  --button-col: black;
+  --scrollbar-back: white;
+  --scrollbar-main: yellow;
+  --main-body: rgb(34, 193, 195);
+  --form-button: yellow;
+}
+
+.dark {
+  --theme-color: #0000a8;
+  --theme-page-background: #181717;
+  --theme-page-text: #fff;
+  --theme-body-backgound: rgb(40, 37, 53);
+  --button-bg: #282c34;
+  --button-col: white;
+  --scrollbar-back: #1e1e24;
+  --scrollbar-main: #6649b8;
+  --form-button: rgb(56, 56, 143);
+}
